@@ -1,11 +1,10 @@
-# README
+# rails-blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project to learn Ruby on Rails. Following https://guides.rubyonrails.org/getting_started.html. Creates a basic blog with articles and comments.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.6.3
 
 * System dependencies
 
